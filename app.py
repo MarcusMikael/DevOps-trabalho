@@ -1,0 +1,1 @@
+print("Container Docker está funcionando!")
